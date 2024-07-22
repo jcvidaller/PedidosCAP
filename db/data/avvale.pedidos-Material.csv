@@ -1,0 +1,4 @@
+nombre,precio,tipo,moneda_id
+Tornillo,5,Taller,EUR
+Tuerca,3,Taller,EUR
+Destornillador,1,Herramienta,EUR
